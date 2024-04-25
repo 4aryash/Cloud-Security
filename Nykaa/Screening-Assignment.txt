@@ -1,0 +1,14 @@
+Task performed for Screening:
+• Configured an EC2 Linux Instance and Set up a WordPress Blog site through a LEMP Server (Linux, Nginx, MySQL, PHP) and secured the instance by performing a Full Server and OS Hardening with a Final Score of 95. 
+
+STEPS::
+1. Configured an EC2 Linux Instance: Amazon Elastic Compute Cloud (EC2) is a web service that provides resizable compute capacity in the cloud. Configuring an EC2 instance involves setting up a virtual server with specified resources like CPU, memory, storage, and networking capabilities. In this case, the task likely involved selecting the appropriate instance type, choosing an operating system (Linux), and configuring networking settings.
+
+2. Set up a WordPress Blog site: WordPress is a popular content management system (CMS) used for building websites and blogs. Setting up a WordPress site typically involves installing WordPress software on a web server and configuring it to create and manage content. This can include tasks like setting up a database, configuring domain settings, and customizing the site's appearance and functionality.
+
+3. LEMP Server (Linux, Nginx, MySQL, PHP): LEMP is a software stack commonly used for hosting dynamic websites and web applications. It consists of Linux (the operating system), Nginx (a web server), MySQL (a relational database management system), and PHP (a server-side scripting language). Setting up a LEMP server involves installing and configuring these components to work together to serve web content.
+
+4. Secured the instance by performing Full Server and OS Hardening: Server hardening is the process of securing a server by reducing its attack surface and minimizing vulnerabilities. This typically involves implementing security best practices such as disabling unnecessary services, applying updates and patches, configuring firewall rules, setting up user permissions, and enabling encryption. Operating system (OS) hardening focuses on securing the underlying operating system (in this case, Linux) against security threats.
+
+5. Final Score of 95: This likely refers to a score assigned based on the level of security achieved through the hardening process. It could be an arbitrary scoring system used by the organization or a third-party tool that assesses the server's security posture based on predefined criteria. A score of 95 indicates a high level of security but may still leave room for further improvement.
+Overall, the task involved setting up a secure web hosting environment on an EC2 Linux instance using the LEMP stack and WordPress, and then ensuring the instance was hardened against potential security threats.
